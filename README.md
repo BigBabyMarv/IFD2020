@@ -1,1 +1,3 @@
-Abgaben für IFD SoSe2020
+# IFD-SoSe 2020
+
+Repository für Interface Design SoSe2020 Abgaben
