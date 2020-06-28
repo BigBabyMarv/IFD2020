@@ -9,4 +9,5 @@ Repository für Interface Design SoSe2020 Abgaben
 04-[Design Grundsätze und Heuristiken](https://webuser.hs-furtwangen.de/~raschpic/IFD/04/20200531_4.1_VUI_INSA_Marvin_Raschpichler.pdf)<br>
 05-[UI Design Guidelines, Pattern Libraries](https://webuser.hs-furtwangen.de/~raschpic/IFD/05/Index_playground_artyom%202.html)<br>
 06-[Microinteractions](https://webuser.hs-furtwangen.de/~raschpic/IFD/06/Microinteractions.pdf)<br>
-07-[Test and Evaluate](https://webuser.hs-furtwangen.de/~raschpic/IFD/07/VR%20Prototyp%20Konzept.pdf)
+07-[Test and Evaluate](https://webuser.hs-furtwangen.de/~raschpic/IFD/07/VR%20Prototyp%20Konzept.pdf)<br>
+08-[Inclusive Design](https://webuser.hs-furtwangen.de/~raschpic/IFD/08/Inclusive%20Design.pdf)
