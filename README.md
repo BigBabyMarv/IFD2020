@@ -10,4 +10,6 @@ Repository für Interface Design SoSe2020 Abgaben
 05-[UI Design Guidelines, Pattern Libraries](https://webuser.hs-furtwangen.de/~raschpic/IFD/05/Index_playground_artyom%202.html)<br>
 06-[Microinteractions](https://webuser.hs-furtwangen.de/~raschpic/IFD/06/Microinteractions.pdf)<br>
 07-[Test and Evaluate](https://webuser.hs-furtwangen.de/~raschpic/IFD/07/VR%20Prototyp%20Konzept.pdf)<br>
-08-[Inclusive Design](https://webuser.hs-furtwangen.de/~raschpic/IFD/08/Inclusive%20Design.pdf)
+08-[Inclusive Design](https://webuser.hs-furtwangen.de/~raschpic/IFD/08/Inclusive%20Design.pdf)<br>
+09-[Physical Computing, IoT](https://webuser.hs-furtwangen.de/~raschpic/IFD/09/Natural%20Langunage%20Interfaces%20&%20AI.pdf)<br>
+10-[Natural Language Interfaces & AI](https://webuser.hs-furtwangen.de/~raschpic/IFD/10/Futuristic%20Interfaces.pdf)<br>
